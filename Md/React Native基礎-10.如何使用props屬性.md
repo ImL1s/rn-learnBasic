@@ -1,5 +1,9 @@
 # React Native基礎-10.如何使用props屬性
+author: ImL1s
 
+email: ImL1s@outlook.com
+
+github: [專案](https://github.com/ImL1s/rn-learnBasic)
 
 ## 引用
 - [中文官方](https://reactnative.cn/docs/0.50/props.html)
